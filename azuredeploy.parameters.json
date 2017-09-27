@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "namePrefix": {
-      "value": "SIRRUS-FCI"
+      "value": "SIRRUS"
     },
     "existingDomainName": {
       "value": "sirrus.test"
